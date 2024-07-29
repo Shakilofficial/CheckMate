@@ -139,7 +139,7 @@ CheckMate/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/CheckMate.git
+   git clone https://github.com/Shakilofficial/CheckMate
    cd CheckMate
    ```
 
